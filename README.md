@@ -59,11 +59,12 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 OUTPUT:
-recent:///823fdf7fa70abf236ceb4fe3652d6b4c
+
 
 ![Screenshot from 2023-10-16 21-59-02](https://github.com/DivyaMunirathnamm/webserver/assets/147474097/a6b6a173-e51a-4d46-af67-025c3a01d08d)
 
 
+![Screenshot from 2023-10-16 22-26-29](https://github.com/DivyaMunirathnamm/webserver/assets/147474097/4093b624-372c-4bcd-a086-162aa07840fa)
 
 
 ## RESULT:
