@@ -1,4 +1,4 @@
-![Screenshot from 2023-10-16 21-56-05](https://github.com/DivyaMunirathnamm/webserver/assets/147474097/a8344a13-d701-434d-bcde-ce2ce1908295)# Developing a Simple Webserver
+# Developing a Simple Webserver
 
 # AIM:
 
