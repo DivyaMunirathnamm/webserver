@@ -1,4 +1,4 @@
-# Developing a Simple Webserver
+![Screenshot from 2023-10-16 21-56-05](https://github.com/DivyaMunirathnamm/webserver/assets/147474097/a8344a13-d701-434d-bcde-ce2ce1908295)# Developing a Simple Webserver
 
 # AIM:
 
@@ -58,8 +58,14 @@ server_address =('',80)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
-## OUTPUT:
-![Screenshot (29)](https://github.com/DivyaMunirathnamm/webserver/assets/147474097/d143e38a-09d6-4f82-b43a-fce8d22d516f)
+OUTPUT:
+
+![Screenshot from 2023-10-16 21-56-05](https://github.com/DivyaMunirathnamm/webserver/assets/147474097/5e83c47d-10b2-4757-9426-d73f6fd8f872)
+
+![Screenshot from 2023-10-16 21-59-02](https://github.com/DivyaMunirathnamm/webserver/assets/147474097/a6b6a173-e51a-4d46-af67-025c3a01d08d)
+
+
+
 
 ## RESULT:
 The program is executed succesfully
