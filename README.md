@@ -59,8 +59,7 @@ httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ```
 OUTPUT:
-
-![Screenshot from 2023-10-16 21-56-05](https://github.com/DivyaMunirathnamm/webserver/assets/147474097/5e83c47d-10b2-4757-9426-d73f6fd8f872)
+recent:///823fdf7fa70abf236ceb4fe3652d6b4c
 
 ![Screenshot from 2023-10-16 21-59-02](https://github.com/DivyaMunirathnamm/webserver/assets/147474097/a6b6a173-e51a-4d46-af67-025c3a01d08d)
 
